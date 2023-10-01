@@ -1,0 +1,680 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.mortenm.de" ftp_rootfolder="//" exportTarget="FTP" domain="honigkuckuckskinder.de" resolutions="1x" timestamp="1603751704108">
+  <folder name="css">
+    <file name="site_global.css" crc="4157229446"/>
+    <file name="master_b-musters.css" crc="535650684" ref="buch:impressum:medienzentrenlizenz:pressestimmen:service-für-schulen:privatlizenz:kinderstimmen:disponieren:kontakt:presse:agb-kino:inhalt:index:service-fürs-kino:historie:schullizenz:shop:trailer:danke:agb:besetzung:honigkuckuckskinder-kopie:kinodcp2k:wiederruf:produktion"/>
+    <file name="buch.css" crc="121879018" ref="buch"/>
+    <file name="impressum.css" crc="449828472" ref="impressum"/>
+    <file name="medienzentrenlizenz.css" crc="488319805" ref="medienzentrenlizenz"/>
+    <file name="pressestimmen.css" crc="4035892629" ref="pressestimmen"/>
+    <file name="service-f_r-schulen.css" crc="4031117413" ref="service-für-schulen"/>
+    <file name="privatlizenz.css" crc="372991939" ref="privatlizenz"/>
+    <file name="kinderstimmen.css" crc="3807054213" ref="kinderstimmen"/>
+    <file name="disponieren.css" crc="311806552" ref="disponieren"/>
+    <file name="kontakt.css" crc="3768208321" ref="kontakt"/>
+    <file name="presse.css" crc="310461725" ref="presse"/>
+    <file name="agb-kino.css" crc="265022791" ref="agb-kino"/>
+    <file name="inhalt.css" crc="4200750939" ref="inhalt"/>
+    <file name="index.css" crc="3850128361" ref="index"/>
+    <file name="service-f_rs-kino.css" crc="3768736499" ref="service-fürs-kino"/>
+    <file name="historie.css" crc="3918133382" ref="historie"/>
+    <file name="schullizenz.css" crc="3950927200" ref="schullizenz"/>
+    <file name="shop.css" crc="3831212894" ref="shop"/>
+    <file name="trailer.css" crc="3850287204" ref="trailer"/>
+    <file name="danke.css" crc="4184467163" ref="danke"/>
+    <file name="agb.css" crc="306772986" ref="agb"/>
+    <file name="besetzung.css" crc="186657902" ref="besetzung"/>
+    <file name="honigkuckuckskinder-kopie.css" crc="480754546" ref="honigkuckuckskinder-kopie"/>
+    <file name="kinodcp2k.css" crc="377175084" ref="kinodcp2k"/>
+    <file name="wiederruf.css" crc="92186774" ref="wiederruf"/>
+    <file name="produktion.css" crc="3788117749" ref="produktion"/>
+  </folder>
+  <folder name="assets">
+    <file name="hkk1-2.jpg" crc="509437471" seo="true" mt="1490544473000"/>
+    <file name="hkk1-5.jpg" crc="329688728" seo="true" mt="1490538496000"/>
+    <file name="hkk1-6.jpg" crc="106380892" seo="true" mt="1490538477000"/>
+    <file name="hkk1-7.jpg" crc="3765789292" seo="true" mt="1490538448000"/>
+    <file name="hkk1-8.jpg" crc="3930327522" seo="true" mt="1490538430000"/>
+    <file name="hkkwerbematerial.pdf" crc="355457095" seo="true" mt="1490383914000"/>
+    <file name="hkk_praedikat.pdf" crc="347324401" seo="true" mt="1490543666000"/>
+    <file name="hkkschulfilmempfehlung.pdf" crc="3975007970" seo="true" mt="1490379688000"/>
+    <file name="plakat_a4.jpg" crc="402284550" seo="true" mt="1490539862000"/>
+    <file name="fsk.pdf" crc="3831947945" seo="true" mt="1490543713000"/>
+    <file name="hkk3.jpg" crc="422228039" seo="true" mt="1490544535000"/>
+    <file name="pressemappe.pdf" crc="4134245391" seo="true" mt="1490871074000"/>
+    <file name="presse2a.jpg" crc="452199489" seo="true" mt="1490878768000"/>
+    <file name="presse2sw.jpg" crc="3938118481" seo="true" mt="1490878746000"/>
+    <file name="presse3a.jpg" crc="35799381" seo="true" mt="1490878868000"/>
+    <file name="presse3sw.jpg" crc="319011157" seo="true" mt="1490878844000"/>
+    <file name="schulheft.pdf" crc="406248895" seo="true" mt="1491982360000"/>
+    <file name="hkk_presseheft.pdf" crc="409877378" seo="true" mt="1492441962000"/>
+    <file name="werberatschlag.pdf" crc="3921053834" seo="true" mt="1492441962000"/>
+    <file name="werbe2.jpg" crc="4127496210" seo="true" mt="1492441962000"/>
+    <file name="werbe1.jpg" crc="382021701" seo="true" mt="1492441962000"/>
+    <file name="1hkk-ajoke-schrei.jpg" crc="4003928721" seo="true" mt="1518852024000"/>
+    <file name="2hkk-ajoke-efrem-lena-.jpg" crc="3838387186" seo="true" mt="1518852024000"/>
+    <file name="3hkk-lena-mutter.jpg" crc="108489453" seo="true" mt="1518852024000"/>
+    <file name="4hkk-toni-knister-florin.jpg" crc="4107070441" seo="true" mt="1518852024000"/>
+    <file name="5hkk-schmuck-hühnerknochen-.jpg" crc="467402067" seo="true" mt="1518852024000"/>
+    <file name="6hkk-otto-bernelli-kinder.jpg" crc="173835503" seo="true" mt="1518852024000"/>
+    <file name="7hkk-lena.jpg" crc="3958751587" seo="true" mt="1518852024000"/>
+    <file name="8hkk-schmuck-büro.jpg" crc="4169374854" seo="true" mt="1518852024000"/>
+    <file name="9hkk-ajoke-lena.jpg" crc="84703130" seo="true" mt="1518852024000"/>
+    <file name="hkk_pressebilder.zip" crc="214574113" seo="true" mt="1518856715000"/>
+    <file name="10hkk-florin-toni-knister.jpg" crc="4251285259" seo="true" mt="1518856274000"/>
+    <file name="11hkk-asrat-hafensilo.jpg" crc="418386208" seo="true" mt="1518856275000"/>
+    <file name="12hkk-petro.jpg" crc="4050869370" seo="true" mt="1518856276000"/>
+    <file name="13hkk-bündisch-florin-kinder.jpg" crc="3965897108" seo="true" mt="1518856277000"/>
+    <file name="14hkk-efrem-igor-.jpg" crc="3931117994" seo="true" mt="1518856278000"/>
+    <file name="15hkk-asrat.jpg" crc="3901794383" seo="true" mt="1518856278000"/>
+    <file name="1hkk-ajoke-schrei2.jpg" crc="3790596900" seo="true" mt="1518856279000"/>
+    <file name="2hkk-ajoke-efrem-lena-2.jpg" crc="3814252605" seo="true" mt="1518856280000"/>
+    <file name="3hkk-lena-mutter2.jpg" crc="316324595" seo="true" mt="1518856281000"/>
+    <file name="4hkk-toni-knister-florin2.jpg" crc="4072713779" seo="true" mt="1518856282000"/>
+    <file name="5hkk-schmuck-hühnerknochen-2.jpg" crc="3850284832" seo="true" mt="1518856282000"/>
+    <file name="7hkk-lena2.jpg" crc="228552481" seo="true" mt="1518856284000"/>
+    <file name="8hkk-schmuck-büro2.jpg" crc="428171215" seo="true" mt="1518856285000"/>
+    <file name="9hkk-ajoke-lena2.jpg" crc="3790448973" seo="true" mt="1518856286000"/>
+    <file name="hkk_kinoservice.zip" crc="4285571327" seo="true" mt="1518857211000"/>
+    <file name="hkksteinhöfelcarlsen.pdf" crc="284685725" seo="true" mt="1527182190000"/>
+    <file name="hkkkritiken.pdf" crc="433287533" seo="true" mt="1549999866000"/>
+    <file name="hkkmanuskript.pdf" crc="390115665" seo="true" mt="1550003281000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="museutils.js" crc="3939489907" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="museconfig.js" crc="128606099" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="require.js" crc="4177726516" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren"/>
+    <file name="webpro.js" crc="3856315280" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren"/>
+    <file name="form_check.php" crc="4108222811" ref="privatlizenz"/>
+    <file name="form_throttle.php" crc="503802655" ref="privatlizenz"/>
+    <file name="form_process.php" crc="260214869" ref="privatlizenz"/>
+    <file name="form-u2212.php" crc="12668818" ref="privatlizenz"/>
+    <file name="form-u2789.php" crc="4263897920" ref="medienzentrenlizenz"/>
+    <file name="form-u2911.php" crc="217511608" ref="schullizenz"/>
+    <file name="form-u3023.php" crc="216986007" ref="disponieren"/>
+  </folder>
+  <folder name="images">
+    <file name="hkkschrift.png" crc="4207765614" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="hkk1a.jpg" crc="3816264114" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="hkk3a.jpg" crc="4093792357" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="hkk4a.jpg" crc="125418682" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="hkk18a.jpg" crc="3776050052" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="kinister.jpg" crc="3961171868" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="plakat-crop-u697.jpg" crc="355037721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viki-filmtipp-logo-rgb-rz.png" crc="276674036" seo="true" ref="index:honigkuckuckskinder-kopie">
+      <caption webpage="index" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+    </file>
+    <file name="logo-dbs.png" crc="4068286676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musikerasrat.jpg" crc="3818602726" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="fest.jpg" crc="121620476" seo="true" ref="index:inhalt:besetzung:kontakt:shop:produktion:pressestimmen:kinderstimmen:presse:service-fürs-kino:service-für-schulen:impressum:privatlizenz:agb:wiederruf:danke:medienzentrenlizenz:schullizenz:kinodcp2k:disponieren:agb-kino:trailer:honigkuckuckskinder-kopie:buch:historie">
+      <caption webpage="kinodcp2k" alt=""/>
+      <caption webpage="kinderstimmen" alt=""/>
+      <caption webpage="besetzung" alt=""/>
+      <caption webpage="service-für-schulen" alt=""/>
+      <caption webpage="produktion" alt=""/>
+      <caption webpage="historie" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="pressestimmen" alt=""/>
+      <caption webpage="presse" alt=""/>
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="wiederruf" alt=""/>
+      <caption webpage="agb" alt=""/>
+      <caption webpage="service-fürs-kino" alt=""/>
+      <caption webpage="disponieren" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="trailer" alt=""/>
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+      <caption webpage="buch" alt=""/>
+      <caption webpage="agb-kino" alt=""/>
+      <caption webpage="danke" alt=""/>
+      <caption webpage="inhalt" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="inhalt1.jpg" crc="3813264749" seo="true" ref="inhalt">
+      <caption webpage="inhalt" alt=""/>
+    </file>
+    <file name="dar-crop-u832.jpg" crc="416746042" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="stab.jpg" crc="515773710" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dar7.jpg" crc="4026112997" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dar1.jpg" crc="4279993231" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dar3.jpg" crc="4125998069" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dar2-crop-u955.jpg" crc="113010269" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dar6-crop-u963.jpg" crc="3896727630" seo="true" ref="besetzung">
+      <caption webpage="besetzung" alt=""/>
+    </file>
+    <file name="dvdcoverneu.jpg" crc="3870144869" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="dvdangebot200x305.jpg" crc="427859687" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="99eur.png" crc="4062361455" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="24eur.png" crc="4117667804" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="team1-crop-u1406.jpg" crc="99166948" seo="true" ref="produktion">
+      <caption webpage="produktion" alt=""/>
+    </file>
+    <file name="autog3.jpg" crc="47875102" seo="true" ref="pressestimmen">
+      <caption webpage="pressestimmen" alt=""/>
+    </file>
+    <file name="autog.jpg" crc="4113061298" seo="true" ref="pressestimmen">
+      <caption webpage="pressestimmen" alt=""/>
+    </file>
+    <file name="kinderst4.jpg" crc="223257345" seo="true" ref="kinderstimmen">
+      <caption webpage="kinderstimmen" alt=""/>
+    </file>
+    <file name="kinderst2-crop-u1390.jpg" crc="351695137" seo="true" ref="kinderstimmen">
+      <caption webpage="kinderstimmen" alt=""/>
+    </file>
+    <file name="1hkk ajoke schrei-crop-u3631.jpg" crc="4168248009" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="2hkk ajoke efrem lena -crop-u3634.jpg" crc="3886131444" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="3hkk lena mutter-crop-u3640.jpg" crc="116912547" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="4hkk toni knister florin-crop-u3637.jpg" crc="4280737051" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="5hkk schmuck hühnerknochen -crop-u3643.jpg" crc="3942344961" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="6hkk otto-bernelli kinder-crop-u3652.jpg" crc="3955834157" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="7hkk lena-crop-u3646.jpg" crc="4026067882" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="8hkk schmuck büro-crop-u3649.jpg" crc="150327018" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="9hkk ajoke lena-crop-u3655.jpg" crc="156331592" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="hkk_presseheft_seite_01.jpg" crc="101803321" seo="true" ref="presse">
+      <caption webpage="presse" alt=""/>
+    </file>
+    <file name="1hkk ajoke schrei-crop-u1031.jpg" crc="4275927142" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="2hkk ajoke efrem lena -crop-u1039.jpg" crc="4289448652" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="3hkk lena mutter-crop-u1046.jpg" crc="3831408733" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="10hkk florin toni knister-crop-u1053.jpg" crc="4149813394" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="11hkk asrat hafensilo-crop-u1060.jpg" crc="3984442207" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="12hkk petro-crop-u1334.jpg" crc="387508843" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="13hkk bündisch florin kinder-crop-u3845.jpg" crc="3841127900" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="14hkk efrem igor -crop-u3859.jpg" crc="464135937" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="15hkk asrat-crop-u3847.jpg" crc="4214285423" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkwerbematerial-1.jpg" crc="4095987591" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkwerbematerial-2.jpg" crc="3791964400" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkwerbematerial-3.jpg" crc="4174673175" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkwerbematerial.jpg" crc="4243326998" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="fsk.jpg" crc="4136789840" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkk_praedikat.jpg" crc="135395494" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="werbe2.jpg" crc="3767877980" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="werbe1.jpg" crc="4147214305" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkschulfilmempfehlung_seite_1-crop-u1263.jpg" crc="4240805695" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="hkkschulfilmempfehlung_seite_2-crop-u1271.jpg" crc="371364848" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="plakat_a4-crop-u1288.jpg" crc="4023488460" seo="true" ref="service-fürs-kino">
+      <caption webpage="service-fürs-kino" alt=""/>
+    </file>
+    <file name="neu-2.jpg" crc="353027404" seo="true" ref="service-für-schulen">
+      <caption webpage="service-für-schulen" alt=""/>
+    </file>
+    <file name="neu-1.jpg" crc="4175252145" seo="true" ref="service-für-schulen">
+      <caption webpage="service-für-schulen" alt=""/>
+    </file>
+    <file name="neu-3.jpg" crc="3778128233" seo="true" ref="service-für-schulen">
+      <caption webpage="service-für-schulen" alt=""/>
+    </file>
+    <file name="dvdangebot.jpg" crc="521642100" seo="true" ref="privatlizenz:medienzentrenlizenz:schullizenz">
+      <caption webpage="medienzentrenlizenz" alt=""/>
+      <caption webpage="privatlizenz" alt=""/>
+      <caption webpage="schullizenz" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="privatlizenz:medienzentrenlizenz:schullizenz:disponieren">
+      <caption webpage="privatlizenz" alt=""/>
+    </file>
+    <file name="plakat-crop-u3487.jpg" crc="355037721" seo="true" ref="honigkuckuckskinder-kopie">
+      <caption webpage="honigkuckuckskinder-kopie" alt=""/>
+    </file>
+    <file name="9783551317803.jpg" crc="388402727" seo="true" ref="buch">
+      <caption webpage="buch" alt=""/>
+    </file>
+    <file name="hkk efrem nacht.jpg" crc="455678090" seo="true" ref="historie">
+      <caption webpage="historie" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3983170534" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="inhalt.html" crc="417133272" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="besetzung.html" crc="241106581" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="kontakt.html" crc="397205667" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="shop.html" crc="4062424794" seo="true" mt="1603751685237" redirect="true"/>
+  <file name="produktion.html" crc="279415626" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="pressestimmen.html" crc="414476326" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="kinderstimmen.html" crc="171409195" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="presse.html" crc="308536345" seo="true" mt="1603750482121" redirect="true"/>
+  <file name="service-fürs-kino.html" crc="295091707" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="service-für-schulen.html" crc="133925674" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="impressum.html" crc="3943651628" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="privatlizenz.html" crc="245619496" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="agb.html" crc="3999078183" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="wiederruf.html" crc="86999895" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="danke.html" crc="52134477" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="medienzentrenlizenz.html" crc="3832155890" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="schullizenz.html" crc="122669906" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="kinodcp2k.html" crc="524393030" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="disponieren.html" crc="320175046" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="agb-kino.html" crc="4097082622" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="trailer.html" crc="4280608248" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="honigkuckuckskinder-kopie.html" crc="3993404862" seo="true" mt="1550003411623" redirect="true"/>
+  <file name="buch.html" crc="88316471" seo="true" mt="1603751232927" redirect="true"/>
+  <file name="historie.html" crc="4076926108" seo="true" mt="1550004036206" redirect="true"/>
+  <site>
+    <asset filename="hkk1-2.jpg" muse_href="upload:U1094"/>
+    <asset filename="hkk1-5.jpg" muse_href="upload:U1096"/>
+    <asset filename="hkk1-6.jpg" muse_href="upload:U1098"/>
+    <asset filename="hkk1-7.jpg" muse_href="upload:U1100"/>
+    <asset filename="hkk1-8.jpg" muse_href="upload:U1102"/>
+    <asset filename="hkkwerbematerial.pdf" muse_href="upload:U1147"/>
+    <asset filename="hkk_praedikat.pdf" muse_href="upload:U1193"/>
+    <asset filename="hkkschulfilmempfehlung.pdf" muse_href="upload:U1287"/>
+    <asset filename="plakat_a4.jpg" muse_href="upload:U1302"/>
+    <asset filename="fsk.pdf" muse_href="upload:U1325"/>
+    <asset filename="hkk3.jpg" muse_href="upload:U1345"/>
+    <asset filename="pressemappe.pdf" muse_href="upload:U1480"/>
+    <asset filename="presse2a.jpg" muse_href="upload:U1525"/>
+    <asset filename="presse2sw.jpg" muse_href="upload:U1527"/>
+    <asset filename="presse3a.jpg" muse_href="upload:U1529"/>
+    <asset filename="presse3sw.jpg" muse_href="upload:U1531"/>
+    <asset filename="schulheft.pdf" muse_href="upload:U1640"/>
+    <asset filename="hkk_presseheft.pdf" muse_href="upload:U1691"/>
+    <asset filename="werberatschlag.pdf" muse_href="upload:U1723"/>
+    <asset filename="werbe2.jpg" muse_href="upload:U1725"/>
+    <asset filename="werbe1.jpg" muse_href="upload:U1727"/>
+    <asset filename="1hkk-ajoke-schrei.jpg" muse_href="upload:U3759"/>
+    <asset filename="2hkk-ajoke-efrem-lena-.jpg" muse_href="upload:U3761"/>
+    <asset filename="3hkk-lena-mutter.jpg" muse_href="upload:U3763"/>
+    <asset filename="4hkk-toni-knister-florin.jpg" muse_href="upload:U3765"/>
+    <asset filename="5hkk-schmuck-hühnerknochen-.jpg" muse_href="upload:U3767"/>
+    <asset filename="6hkk-otto-bernelli-kinder.jpg" muse_href="upload:U3769"/>
+    <asset filename="7hkk-lena.jpg" muse_href="upload:U3771"/>
+    <asset filename="8hkk-schmuck-büro.jpg" muse_href="upload:U3773"/>
+    <asset filename="9hkk-ajoke-lena.jpg" muse_href="upload:U3775"/>
+    <asset filename="hkk_pressebilder.zip" muse_href="upload:U3780"/>
+    <asset filename="10hkk-florin-toni-knister.jpg" muse_href="upload:U3897"/>
+    <asset filename="11hkk-asrat-hafensilo.jpg" muse_href="upload:U3899"/>
+    <asset filename="12hkk-petro.jpg" muse_href="upload:U3901"/>
+    <asset filename="13hkk-bündisch-florin-kinder.jpg" muse_href="upload:U3903"/>
+    <asset filename="14hkk-efrem-igor-.jpg" muse_href="upload:U3905"/>
+    <asset filename="15hkk-asrat.jpg" muse_href="upload:U3907"/>
+    <asset filename="1hkk-ajoke-schrei2.jpg" muse_href="upload:U3909"/>
+    <asset filename="2hkk-ajoke-efrem-lena-2.jpg" muse_href="upload:U3911"/>
+    <asset filename="3hkk-lena-mutter2.jpg" muse_href="upload:U3913"/>
+    <asset filename="4hkk-toni-knister-florin2.jpg" muse_href="upload:U3915"/>
+    <asset filename="5hkk-schmuck-hühnerknochen-2.jpg" muse_href="upload:U3917"/>
+    <asset filename="7hkk-lena2.jpg" muse_href="upload:U3921"/>
+    <asset filename="8hkk-schmuck-büro2.jpg" muse_href="upload:U3923"/>
+    <asset filename="9hkk-ajoke-lena2.jpg" muse_href="upload:U3925"/>
+    <asset filename="hkk_kinoservice.zip" muse_href="upload:U3930"/>
+    <asset filename="hkksteinhöfelcarlsen.pdf" muse_href="upload:U3975"/>
+    <asset filename="hkkkritiken.pdf" muse_href="upload:U4180"/>
+    <asset filename="hkkmanuskript.pdf" muse_href="upload:U4182"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="Headline" uid="U736"/>
+    <paragraphStyle className="Navi-left" uid="U737"/>
+    <paragraphStyle className="Navi-top" uid="U738"/>
+    <paragraphStyle className="Aufz-hlung" uid="U1318"/>
+    <textLinkStyle className="ts-left-navi-Link-Format" uid="U320"/>
+    <textLinkStyle className="ts-intext-Link-Format" uid="U1454"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Honigkuckuckskinder" filename="index.html" muse_href="page:U93" master="U465">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="B-Musters." master="U62" uid="U465">
+        <breakpoint uid="U466" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Inhalt" filename="inhalt.html" muse_href="page:U260" master="U465">
+        <breakpoint uid="U250" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Besetzung" filename="besetzung.html" muse_href="page:U307" master="U465">
+        <breakpoint uid="U297" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Kontakt" filename="kontakt.html" muse_href="page:U332" master="U465">
+        <breakpoint uid="U322" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Shop" filename="shop.html" muse_href="page:U356" master="U465">
+        <breakpoint uid="U346" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Produktion" filename="produktion.html" muse_href="page:U368" master="U465">
+        <breakpoint uid="U358" maxwidth="960" minwidth="0" squishy="true"/>
+        <anchor name="Filmographi" html_id="filmographi" muse_href="anchor:U357:U1455" includeInBPs="U358"/>
+      </page>
+      <page name="Pressestimmen" filename="pressestimmen.html" muse_href="page:U380" master="U465">
+        <breakpoint uid="U370" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Kinderstimmen" filename="kinderstimmen.html" muse_href="page:U392" master="U465">
+        <breakpoint uid="U382" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Presse" filename="presse.html" muse_href="page:U404" master="U465">
+        <breakpoint uid="U394" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Service fürs Kino" filename="service-fürs-kino.html" muse_href="page:U416" master="U465">
+        <breakpoint uid="U406" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Service für Schulen" filename="service-für-schulen.html" muse_href="page:U428" master="U465">
+        <breakpoint uid="U418" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Impressum" filename="impressum.html" muse_href="page:U1625" master="U465">
+        <breakpoint uid="U1615" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Privatlizenz" filename="privatlizenz.html" muse_href="page:U2167" master="U465">
+        <breakpoint uid="U2157" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="AGB" filename="agb.html" muse_href="page:U2666" master="U465">
+        <breakpoint uid="U2654" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Wiederruf" filename="wiederruf.html" muse_href="page:U2680" master="U465">
+        <breakpoint uid="U2668" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Danke" filename="danke.html" muse_href="page:U2694" master="U465">
+        <breakpoint uid="U2682" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Medienzentrenlizenz" filename="medienzentrenlizenz.html" muse_href="page:U2844" master="U465">
+        <breakpoint uid="U2729" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Schullizenz" filename="schullizenz.html" muse_href="page:U2966" master="U465">
+        <breakpoint uid="U2851" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Kino:DCP2K" filename="kinodcp2k.html" muse_href="page:U3000" master="U465">
+        <breakpoint uid="U2990" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Disponieren" filename="disponieren.html" muse_href="page:U3022" master="U465">
+        <breakpoint uid="U3012" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="AGB Kino" filename="agb-kino.html" muse_href="page:U3256" master="U465">
+        <breakpoint uid="U3246" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Trailer" filename="trailer.html" muse_href="page:U3421" master="U465">
+        <breakpoint uid="U3411" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Honigkuckuckskinder Kopie" filename="honigkuckuckskinder-kopie.html" muse_href="page:U3497" master="U465">
+        <breakpoint uid="U3475" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Buch" filename="buch.html" muse_href="page:U3967" master="U465">
+        <breakpoint uid="U3957" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Historie" filename="historie.html" muse_href="page:U4157" master="U465">
+        <breakpoint uid="U4147" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
