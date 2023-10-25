@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unbekannte Serveranfragemethode'
 	),
 	'email' => array(
-		'from' => 'film@honigkuckuckskinder.de',
-		'to' => 'film@honigkuckuckskinder.de'
+		'from' => 'willy.brunner@t-online.de',
+		'to' => 'willy.brunner@t-online.de'
 	),
 	'fields' => array(
 		'custom_U2813' => array(
